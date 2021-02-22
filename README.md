@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Juan Carlos </h1>
 
 <p>
-  I'm a Business Manager with 3+ years of experience and a software developer from Colombia 🇨🇴
+  I'm a Business Manager with 3+ years of experience and a software developer from Colombia 🇨🇴.
 </p>
 <p>
   I'm passionate about how technology boosts productivity and economic growth. 
@@ -9,7 +9,7 @@
   I found my life purpose in coding. I love how ideas come true by lines of code. I take a special liking to Python and the cool things we can do with ML/DL recent developments.    
 </p>
 <p>
-  I love food and travel. I think There's no better way to understand a culture than through its food. Also I like Sport, particularly Football :soccer: and Tenis :tennis:
+  I love food and travel. I think There's no better way to understand a culture than through its food. Also I like Sport, particularly Football :soccer: and Tenis :tennis: .
 </p>
 
 <p align='center'>
