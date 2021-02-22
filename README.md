@@ -50,7 +50,6 @@
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-</details>
 <h5>Machine Learning / Deep Learning</h5>
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -59,7 +58,6 @@
   <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 </details>
-
 
 <details>
   <summary>:wrench:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
