@@ -1,7 +1,14 @@
 <h1 align='center'> Hi there 👋, I'm Juan Carlos </h1>
 
 <p align='center'>
-  I'm a full-stack developer from Colombia. 🇨🇴
+  I'm a Business Manager with 3+ years experience and software developer from Colombia. 🇨🇴
+</p>
+<p align='center'>
+  I'm passionate on how technology boots productivity and economy growth.
+  I think is important to ask why and what we want to achieve before stariting a project.
+</p>
+<p align='center'>
+  I love food and travel. I think There's no better way to understand a culture than through its food. Also I like Sport, particulary Football :soccer: and Tenis :tennis:
 </p>
 
 <p align='center'>
