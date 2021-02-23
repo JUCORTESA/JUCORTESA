@@ -6,7 +6,7 @@
 <p>
   I'm passionate about how technology boosts productivity and economic growth. 
   I think is important to ask why and what we want to achieve before starting a project.
-  I love how ideas come true by lines of code. I take a special liking to Python and the cool things we can do with ML/DL recent developments.    
+  I love how ideas come true by typing lines of code. I take a special liking to Python and the cool things we can do with ML/DL recent developments.    
 </p>
 <p>
   I love food and travel. I think There's no better way to understand a culture than through its food. Also I like Sport, particularly Football :soccer: and Tenis :tennis:.
